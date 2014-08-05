@@ -1,19 +1,19 @@
 {
-  "name": "soundBoard",
+  "name": "soundboard",
   "version": "0.0.0",
-  "description": "soundBoard ==========",
+  "description": "soundboard ==========",
   "main": "index.js",
   "scripts": {
     "test": "echo 'things'"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wlabranche/soundBoard.git"
+    "url": "https://github.com/wlabranche/soundboard.git"
   },
   "author": "Will LaBranche",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wlabranche/soundBoard/issues"
+    "url": "https://github.com/wlabranche/soundboard/issues"
   },
-  "homepage": "https://github.com/wlabranche/soundBoard"
+  "homepage": "https://github.com/wlabranche/soundboard"
 }
