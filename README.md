@@ -7,7 +7,7 @@ Soundboard is a framework for working with the HTML5 web audio api.
 
 It is in very early stages of development. Your input and patience is appreciated.
 
-This app uses the web audio API to synthesize sounds.  The code includes synthesized sounds for the following instruments:
+This library uses the web audio API to synthesize sounds.  The code includes synthesized sounds for the following instruments:
 
 1. Organ
 2. Piano
