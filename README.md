@@ -5,7 +5,9 @@ soundboard
 
 Soundboard is a framework for working with the HTML5 web audio api.
 
-It is in very early stages of development. Your input and patience is appreciated.
+It is in very early stages of development.
+Many things are not wired together, we expect to have it working by mid-September.
+Your input and patience is appreciated.
 
 This library uses the web audio API to synthesize sounds.  The code includes synthesized sounds for the following instruments:
 
